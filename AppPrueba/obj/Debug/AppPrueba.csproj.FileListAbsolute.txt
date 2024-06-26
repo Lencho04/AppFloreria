@@ -1,0 +1,10 @@
+E:\PC\Documents\Cursos_Aparte\C#\AppPrueba\AppPrueba\bin\Debug\AppPrueba.exe.config
+E:\PC\Documents\Cursos_Aparte\C#\AppPrueba\AppPrueba\bin\Debug\AppPrueba.exe
+E:\PC\Documents\Cursos_Aparte\C#\AppPrueba\AppPrueba\bin\Debug\AppPrueba.pdb
+E:\PC\Documents\Cursos_Aparte\C#\AppPrueba\AppPrueba\obj\Debug\AppPrueba.csproj.AssemblyReference.cache
+E:\PC\Documents\Cursos_Aparte\C#\AppPrueba\AppPrueba\obj\Debug\AppPrueba.Form1.resources
+E:\PC\Documents\Cursos_Aparte\C#\AppPrueba\AppPrueba\obj\Debug\AppPrueba.Properties.Resources.resources
+E:\PC\Documents\Cursos_Aparte\C#\AppPrueba\AppPrueba\obj\Debug\AppPrueba.csproj.GenerateResource.cache
+E:\PC\Documents\Cursos_Aparte\C#\AppPrueba\AppPrueba\obj\Debug\AppPrueba.csproj.CoreCompileInputs.cache
+E:\PC\Documents\Cursos_Aparte\C#\AppPrueba\AppPrueba\obj\Debug\AppPrueba.exe
+E:\PC\Documents\Cursos_Aparte\C#\AppPrueba\AppPrueba\obj\Debug\AppPrueba.pdb
